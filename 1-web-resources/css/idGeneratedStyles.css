@@ -1,0 +1,79 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+p.Basic-Paragraph {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+span.CharOverride-1 {
+	font-family:"ABC Diatype Variable Edu", sans-serif;
+	font-variation-settings:"ital" 0, "wght" 400;
+}
+span.CharOverride-2 {
+	font-family:"ABC Diatype Variable Edu", sans-serif;
+	font-variation-settings:"ital" 0, "wght" 400;
+	text-decoration:underline;
+}
+#_idContainer000 {
+	display:inline-block;
+	height:1084px;
+	width:1927px;
+}
+#_idContainer002, #_idContainer004, #_idContainer006, #_idContainer009, #_idContainer012, #_idContainer015, #_idContainer018, #_idContainer021, #_idContainer024, #_idContainer026, #_idContainer029, #_idContainer031, #_idContainer033, #_idContainer036, #_idContainer039, #_idContainer042, #_idContainer046, #_idContainer049, #_idContainer052, #_idContainer054 {
+	display:inline-block;
+	height:1080px;
+	width:1920px;
+}
+#_idContainer011 {
+	display:inline-block;
+	height:240px;
+	width:306px;
+}
+#_idContainer035 {
+	display:inline-block;
+	height:57px;
+	width:306px;
+}
+#_idContainer041 {
+	display:inline-block;
+	height:285px;
+	width:306px;
+}
+#_idContainer045 {
+	display:inline-block;
+	height:213px;
+	width:306px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
